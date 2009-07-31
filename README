@@ -1,0 +1,34 @@
+= PakeBrowserDetect
+
+Detects user's browser.
+
+Can be used in the layer view and the layer controller.
+
+Provides two methods:
+* browser_name
+* browser_is?
+
+The method browser_is? accepts the symbols:
+* :firefox
+* :opera
+* :chrome
+* :safari
+* :ie
+
+== Example
+
+In the layer view:
+
+  <%= browser_name %>
+  <%= browser_is? :firefox %>
+
+In the layer controller:
+
+  browser_name
+  browser_is? :firefox
+
+Copyright (c) 2009 Patrick Espake, released under the MIT license
+
+Site: http://www.patrickespake.com
+Blog: http://blog.patrickespake.com
+Email: mailto:patrickespake@gmail.com
