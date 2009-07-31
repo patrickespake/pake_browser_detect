@@ -31,6 +31,10 @@ In the layer controller:
   browser_name
   browser_is? :firefox
 
+== Documentation
+
+http://lab.patrickespake.com/pake_browser_detect
+
 Copyright (c) 2009 Patrick Espake, released under the MIT license
 
 Site: http://www.patrickespake.com

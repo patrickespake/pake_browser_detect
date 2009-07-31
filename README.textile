@@ -43,6 +43,10 @@ In the layer controller:
 </code>
 </pre>
 
+h2. Documentation
+
+"http://lab.patrickespake.com/pake_browser_detect":http://lab.patrickespake.com/pake_browser_detect
+
 Copyright (c) 2009 Patrick Espake, released under the MIT license
 
 Site: "http://www.patrickespake.com":http://www.patrickespake.com
