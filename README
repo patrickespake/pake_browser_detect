@@ -15,6 +15,10 @@ The method browser_is? accepts the symbols:
 * :safari
 * :ie
 
+== Installation
+
+./script/plugin install git://github.com/patrickespake/pake_browser_detect.git
+
 == Example
 
 In the layer view:
