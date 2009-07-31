@@ -45,6 +45,6 @@ In the layer controller:
 
 Copyright (c) 2009 Patrick Espake, released under the MIT license
 
-Site: http://www.patrickespake.com
-Blog: http://blog.patrickespake.com
-Email: patrickespake@gmail.com
+Site: "http://www.patrickespake.com":http://www.patrickespake.com
+Blog: "http://blog.patrickespake.com":http://blog.patrickespake.com
+Email: "patrickespake@gmail.com":mailto:patrickespake@gmail.com
